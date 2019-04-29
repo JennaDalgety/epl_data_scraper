@@ -1,0 +1,23 @@
+Metrics
+
+  - I am building this app to be able to better understand the likelihood or players or teams outcomes in certain areas: points, wins, losses, draws, fouls, scoring
+  - I am hoping this app can help people dispel some of the myth surrounding these big-money teams and league
+  - I want the search to be as quick as possible.  No more that 2 seconds to pull up any requested data
+  - I want tht data to update every day at 12:01am GMT
+  - I want as many users as possible to be able to be on the site at the same time; to start with, we can test it with 100 user load
+
+Goals
+
+ - To be able to get stats automatically updated on a daily basis for EPL teams and players
+   - Top scorer
+   - League Table
+     - Home wins/losses/draws
+     - Away wins/losses/draws
+   - Most fouls
+    - Red cards
+     - Yellow cards
+ - With these stats, be able to finds trends in player or team behavior
+
+Target Audience
+
+ - Initially this will probably be a niche site for die-hard EPL fans, looking to place bets.  I want this to be an educational tool for big leagues and grassroots leagues alikesds

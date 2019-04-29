@@ -1,0 +1,13 @@
+- Modules installed:
+   - Cheerio
+   - Checksum
+   - Request-Promise
+
+
+- Started with this tutorial: https://medium.freecodecamp.org/how-to-build-a-simple-search-bot-in-30-minutes-eb56fcedcdb1
+
+- Diversions from this tutorial: not using a hash of the ingested HTML to return a true/false to see if there have been any changes
+
+- Needed a browser-side module server, so installed Browserify
+
+- Needed something that would automatically recompile your file when you make changes to it, so installed Beefy
