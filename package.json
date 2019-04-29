@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/JennaDalgety/epl_data_scraper#readme",
   "dependencies": {
+    "beefy": "^2.1.8",
+    "browserify": "^16.2.3",
     "checksum": "^0.1.1",
     "cheerio": "^1.0.0-rc.3",
     "request": "^2.88.0",
