@@ -21,6 +21,7 @@
     "browserify": "^16.2.3",
     "checksum": "^0.1.1",
     "cheerio": "^1.0.0-rc.3",
+    "puppeteer": "^1.15.0",
     "request": "^2.88.0",
     "request-promise": "^4.2.4"
   }

@@ -11,3 +11,5 @@
 - Needed a browser-side module server, so installed Browserify
 
 - Needed something that would automatically recompile your file when you make changes to it, so installed Beefy
+
+- Having trouble: CORB issue when trying to serve response.  Installing Puppeteer module as alternate
